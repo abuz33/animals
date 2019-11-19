@@ -1,3 +1,5 @@
 Giraffe
 Tiger
 Lion
+Monkey
+Snake
